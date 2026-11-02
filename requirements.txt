@@ -1,0 +1,30 @@
+# Deep learning
+torch==2.4.1
+torchvision==0.19.1
+timm==0.9.16
+
+# Numerical and machine learning
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+
+# Visualization
+matplotlib
+
+# Image I/O
+Pillow
+tifffile
+
+# Utilities and serialization
+joblib
+tqdm
+
+# EyeCLIP runtime dependencies
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+
+# Upstream 3D pathology segmentation
+nnunetv2
